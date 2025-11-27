@@ -1,0 +1,24 @@
+# Trading Bot Requirements
+# Iron Condor Scanner and Monitor
+
+# Alpaca Trading API
+alpaca-py>=0.20.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests (for Telegram notifications)
+requests>=2.31.0
+
+# Streamlit dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
+
+# Modal (for cloud functions - install separately if needed)
+# modal>=0.60.0
+
